@@ -25,7 +25,7 @@ Join us every Thursday as we share insights, updates, or challenges, continuing 
 We are committed to providing a welcoming and respectful environment for everyone. Please review our [Code of Conduct](CODEOFCONDUCT.md) to understand the expectations for participating in our community.
 
 ## License
-Our projects are typically released under [BSD-3-Clause license.](./LICENSE).
+Our projects are typically released under [BSD-3-Clause license.](../LICENSE).
 
 ---
 
